@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WineCellar">
+</Property><Property Name="Solution File" Value="C:\Sites\Star\WineCellar.sln">
+</Property><Property Name="User Options File" Value="C:\Sites\Star\WineCellar.suo">
+</Property><Property Name="Date" Value="Monday, October 19, 2015">
+</Property><Property Name="Time" Value="7:50 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WineCellar.sln" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellar.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WineCellar.suo" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellar.suo">
+</Event><Event ErrorLevel="4" Project="WineCellar" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\WineCellar.vbproj" Description="Project file successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\WineCellar.vbproj">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\AssemblyInfo.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCCportal.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCCportal.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCCportal.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCCportal.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCommission2.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCommission2.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmEstOrdUpdateSourceCode.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmEstOrdUpdateSourceCode.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmAddSourceCode.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmAddSourceCode.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmAddSourceCode.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmAddSourceCode.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCallCenterAdmin.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCallCenterAdmin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCallCenterAdmin.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCallCenterAdmin.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmAcctClosed.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmAcctClosed.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmAcctOpen.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmAcctOpen.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmAdjustBalance.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmAdjustBalance.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmBilling.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmBilling.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCallCenterAdminDialog.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCallCenterAdminDialog.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCallCenterAdminDialog.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCallCenterAdminDialog.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCatalogs.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCatalogs.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCatalogs.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCatalogs.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCloseMonth.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCloseMonth.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCodes.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCodes.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCommission.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCommission.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmContactFind.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmContactFind.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmContactList.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmContactList.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmContactList.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmContactList.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmContacts.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmContacts.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmContactsImport.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmContactsImport.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCustomer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCustomer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmDateSelect.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmDateSelect.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmDesignerCheckoff.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmDesignerCheckoff.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmErrors.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmErrors.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmEstOrd2.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmEstOrd2.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmEstOrdBOMImportLacq.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmEstOrdBOMImportLacq.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmEstOrdBOMImportLacq.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmEstOrdBOMImportLacq.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmEstOrdUpdateForecast.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmEstOrdUpdateForecast.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmExcelImporter.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmExcelImporter.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmFind.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmFind.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmForecastStatus.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmForecastStatus.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmImport.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmImport.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmImportItems.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmImportItems.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmItemPricing.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmItemPricing.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmKitCDRDownstairs.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmKitCDRDownstairs.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmKitCDRDownstairs.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmKitCDRDownstairs.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmLogin.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmLogin.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmMain.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmMain.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdApproveDiscount.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdApproveDiscount.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdCommOverride.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdCommOverride.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdCopyInstall.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdCopyInstall.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdCopyItems.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdCopyItems.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdCustDisc.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdCustDisc.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdItmHist.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdItmHist.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdPrintDuke.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdPrintDuke.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdPrintRetailBase.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdPrintRetailBase.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdSearch.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdSearch.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdShippingNotification.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdShippingNotification.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdTaxOverride.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdTaxOverride.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdUpdateInstaller.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdUpdateInstaller.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdWeb.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdWeb.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPartRename.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPartRename.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPartRename.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPartRename.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmParts.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmParts.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPayment.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPayment.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPaymentTransfer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPaymentTransfer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPopUp.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPopUp.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPriceIncrease.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPriceIncrease.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPrintCustomerOrders.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPrintCustomerOrders.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmProduction.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmProduction.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmProduction.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmProduction.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmProductionLock.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmProductionLock.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmProductionLock.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmProductionLock.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmReferralNew.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmReferralNew.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmReferralPayment.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmReferralPayment.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmReport.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmReport.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmResetOrder.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmResetOrder.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmSalesCat.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmSalesCat.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmSetting.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmSetting.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipBillImport.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipBillImport.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipBillReprint.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipBillReprint.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipment.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipment.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipmentNeedBox.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipmentNeedBox.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipPick.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipPick.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipPrinterFedex.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipPrinterFedex.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipSelect.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipSelect.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmStaged.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmStaged.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmStarter.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmStarter.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmStatusBar.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmStatusBar.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmTaskList.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmTaskList.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmTaxCodes.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmTaxCodes.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmTaxImport.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmTaxImport.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmToDo.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmToDo.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmToDoList.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmToDoList.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmUpdateISR.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmUpdateISR.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmUpdateRep.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmUpdateRep.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmUsers.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmUsers.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmVendorNet.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmVendorNet.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmWebExport.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmWebExport.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmWebExport.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmWebExport.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmWizard.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmWizard.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmWizardSub.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmWizardSub.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmWoods.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmWoods.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Jcom.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Jcom.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Shutdown.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Shutdown.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Shutdown.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Shutdown.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\test.Designer.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\test.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\test.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\test.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\ShipServiceWebReference\Reference.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\ShipServiceWebReference\Reference.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\TrackingServiceWebReference\Reference.vb" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\TrackingServiceWebReference\Reference.vb">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\app.config" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\app.config">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\cogs.gif" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\cogs.gif">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\My Project\app.manifest" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\My Project\Settings.settings" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Star.ico" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Star.ico">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\ShipServiceWebReference\CancelPendingShipmentReply1.datasource" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\ShipServiceWebReference\CancelPendingShipmentReply1.datasource">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\ShipServiceWebReference\CreatePendingShipmentReply1.datasource" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\ShipServiceWebReference\CreatePendingShipmentReply1.datasource">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\ShipServiceWebReference\ProcessShipmentReply1.datasource" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\ShipServiceWebReference\ProcessShipmentReply1.datasource">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\ShipServiceWebReference\ProcessTagReply1.datasource" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\ShipServiceWebReference\ProcessTagReply1.datasource">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\ShipServiceWebReference\Reference.map" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\ShipServiceWebReference\Reference.map">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\ShipServiceWebReference\ShipmentReply1.datasource" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\ShipServiceWebReference\ShipmentReply1.datasource">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\ShipServiceWebReference\ShipServiceDefinitions.wsdl" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\ShipServiceWebReference\ShipServiceDefinitions.wsdl">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\TrackingServiceWebReference\Reference.map" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\TrackingServiceWebReference\Reference.map">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\TrackingServiceWebReference\SignatureProofOfDeliveryFaxReply1.datasource" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\TrackingServiceWebReference\SignatureProofOfDeliveryFaxReply1.datasource">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\TrackingServiceWebReference\SignatureProofOfDeliveryLetterReply1.datasource" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\TrackingServiceWebReference\SignatureProofOfDeliveryLetterReply1.datasource">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\TrackingServiceWebReference\TrackNotificationReply1.datasource" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\TrackingServiceWebReference\TrackNotificationReply1.datasource">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\TrackingServiceWebReference\TrackReply1.datasource" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\TrackingServiceWebReference\TrackReply1.datasource">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Web References\TrackingServiceWebReference\TrackServiceDefinitions.wsdl" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Web References\TrackingServiceWebReference\TrackServiceDefinitions.wsdl">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\STaR Database.lnk" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\STaR Database.lnk">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCCportal.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCCportal.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCommission2.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCommission2.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmEstOrdUpdateSourceCode.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmEstOrdUpdateSourceCode.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmAddSourceCode.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmAddSourceCode.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCallCenterAdmin.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCallCenterAdmin.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmAcctClosed.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmAcctClosed.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmAcctOpen.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmAcctOpen.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmAdjustBalance.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmAdjustBalance.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmBilling.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmBilling.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCallCenterAdminDialog.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCallCenterAdminDialog.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCatalogs.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCatalogs.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCloseMonth.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCloseMonth.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCodes.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCodes.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCommission.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCommission.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmContactFind.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmContactFind.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmContactList.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmContactList.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmContacts.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmContacts.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmContactsImport.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmContactsImport.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmCustomer.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmCustomer.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmDateSelect.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmDateSelect.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmDesignerCheckoff.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmDesignerCheckoff.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmErrors.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmErrors.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmEstOrd2.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmEstOrd2.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmEstOrdBOMImportLacq.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmEstOrdBOMImportLacq.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmEstOrdUpdateForecast.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmEstOrdUpdateForecast.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmExcelImporter.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmExcelImporter.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmFind.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmFind.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmForecastStatus.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmForecastStatus.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmImport.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmImport.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmImportItems.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmImportItems.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmItemPricing.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmItemPricing.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmKitCDRDownstairs.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmKitCDRDownstairs.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmLogin.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmLogin.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmMain.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmMain.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdApproveDiscount.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdApproveDiscount.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdCommOverride.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdCommOverride.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdCopyInstall.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdCopyInstall.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdCopyItems.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdCopyItems.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdCustDisc.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdCustDisc.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdItmHist.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdItmHist.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdPrintDuke.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdPrintDuke.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdPrintRetailBase.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdPrintRetailBase.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdSearch.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdSearch.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdShippingNotification.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdShippingNotification.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdTaxOverride.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdTaxOverride.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdUpdateInstaller.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdUpdateInstaller.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmOrdWeb.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmOrdWeb.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPartRename.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPartRename.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmParts.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmParts.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPayment.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPayment.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPaymentTransfer.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPaymentTransfer.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPopUp.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPopUp.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPriceIncrease.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPriceIncrease.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmPrintCustomerOrders.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmPrintCustomerOrders.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmProduction.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmProduction.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmProductionLock.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmProductionLock.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmReferralNew.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmReferralNew.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmReferralPayment.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmReferralPayment.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmReport.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmReport.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmResetOrder.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmResetOrder.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmSalesCat.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmSalesCat.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmSetting.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmSetting.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipBillImport.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipBillImport.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipBillReprint.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipBillReprint.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipment.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipment.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipmentNeedBox.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipmentNeedBox.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipPick.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipPick.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipPrinterFedex.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipPrinterFedex.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmShipSelect.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmShipSelect.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmStaged.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmStaged.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmStarter.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmStarter.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmStatusBar.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmStatusBar.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmTaskList.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmTaskList.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmTaxCodes.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmTaxCodes.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmTaxImport.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmTaxImport.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmToDo.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmToDo.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmToDoList.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmToDoList.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmUpdateISR.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmUpdateISR.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmUpdateRep.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmUpdateRep.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmUsers.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmUsers.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmVendorNet.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmVendorNet.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmWebExport.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmWebExport.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmWizard.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmWizard.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmWizardSub.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmWizardSub.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\fmWoods.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\fmWoods.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\licenses.licx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\licenses.licx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\My Project\Resources.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\Shutdown.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\Shutdown.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\test.resx" Description="File successfully backed up as C:\Sites\Starbk\Backup\WineCellarStar\test.resx">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\WineCellar.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WineCellar" Source="WineCellarStar\WineCellar.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WineCellar.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WineCellar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\WineCellar.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

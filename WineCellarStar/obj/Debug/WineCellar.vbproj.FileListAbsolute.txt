@@ -1,0 +1,607 @@
+Z:\WCI_SOURCE\Star\Head\WineCellarStar\bin\WineCellar.exe.config
+Z:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+Z:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.MSScriptControl.dll
+Z:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Core.dll
+Z:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+Z:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.SHDocVw.dll
+Z:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\AxInterop.SHDocVw.dll
+Z:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.vbproj.ResolveComReference.cache
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\WineCellar.exe.config
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.MSScriptControl.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Core.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.SHDocVw.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\AxInterop.SHDocVw.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.vbproj.ResolveComReference.cache
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\ResolveAssemblyReference.cache
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCCportal.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCommission2.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmEstOrdUpdateSourceCode.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmAddSourceCode.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCallCenterAdmin.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmAcctClosed.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmAcctOpen.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmAdjustBalance.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmBilling.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCallCenterAdminDialog.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCatalogs.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCloseMonth.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCodes.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCommission.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmContactFind.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmContactList.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmContacts.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmContactsImport.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCustomer.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmDateSelect.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmDesignerCheckoff.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmErrors.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmEstOrd2.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmEstOrdBOMImportLacq.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmEstOrdUpdateForecast.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmExcelImporter.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmFind.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmForecastStatus.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmImport.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmImportItems.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmItemPricing.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmKitCDRDownstairs.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmLogin.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmMain.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdApproveDiscount.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdCommOverride.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdCopyInstall.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdCopyItems.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdCustDisc.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdItmHist.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdPrintDuke.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdPrintRetailBase.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdSearch.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdShippingNotification.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdTaxOverride.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdUpdateInstaller.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdWeb.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPartRename.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmParts.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPayment.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPaymentTransfer.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPopUp.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPriceIncrease.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPrintCustomerOrders.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmProduction.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmProductionLock.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmReferralNew.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmReferralPayment.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmReport.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmResetOrder.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmSalesCat.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmSetting.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipBillImport.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipBillReprint.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipment.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipmentNeedBox.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipPick.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipPrinterFedex.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipSelect.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmStaged.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmStarter.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmStatusBar.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmTaskList.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmTaxCodes.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmTaxImport.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmToDo.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmToDoList.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmUpdateISR.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmUpdateRep.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmUsers.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmVendorNet.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmWebExport.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmWizard.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmWizardSub.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmWoods.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.Resources.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.Shutdown.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.test.resources
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.vbproj.GenerateResource.Cache
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.exe.licenses
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\WineCellar.exe
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\WineCellar.pdb
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\WineCellar.xml
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\Microsoft.mshtml.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\NCalc.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\Interop.Microsoft.Office.Interop.Excel.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\Interop.MSScriptControl.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\Interop.Microsoft.Office.Core.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\Interop.Microsoft.Office.Interop.Outlook.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\Interop.SHDocVw.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\bin\AxInterop.SHDocVw.dll
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.exe
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.xml
+\\Vsm-webserv11\data\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.pdb
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\WineCellar.exe.config
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.MSScriptControl.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Core.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\Interop.SHDocVw.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\AxInterop.SHDocVw.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.vbproj.ResolveComReference.cache
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.exe
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.xml
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.pdb
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\WineCellar.exe
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\WineCellar.pdb
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\WineCellar.xml
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\Microsoft.mshtml.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\NCalc.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\Interop.Microsoft.Office.Interop.Excel.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\Interop.MSScriptControl.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\Interop.Microsoft.Office.Core.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\Interop.Microsoft.Office.Interop.Outlook.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\Interop.SHDocVw.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\bin\AxInterop.SHDocVw.dll
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\ResolveAssemblyReference.cache
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCCportal.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCommission2.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmEstOrdUpdateSourceCode.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmAddSourceCode.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCallCenterAdmin.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmAcctClosed.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmAcctOpen.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmAdjustBalance.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmBilling.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCallCenterAdminDialog.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCatalogs.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCloseMonth.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCodes.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCommission.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmContactFind.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmContactList.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmContacts.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmContactsImport.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmCustomer.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmDateSelect.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmDesignerCheckoff.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmErrors.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmEstOrd2.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmEstOrdBOMImportLacq.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmEstOrdUpdateForecast.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmExcelImporter.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmFind.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmForecastStatus.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmImport.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmImportItems.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmItemPricing.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmKitCDRDownstairs.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmLogin.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmMain.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdApproveDiscount.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdCommOverride.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdCopyInstall.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdCopyItems.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdCustDisc.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdItmHist.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdPrintDuke.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdPrintRetailBase.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdSearch.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdShippingNotification.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdTaxOverride.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdUpdateInstaller.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmOrdWeb.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPartRename.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmParts.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPayment.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPaymentTransfer.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPopUp.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPriceIncrease.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmPrintCustomerOrders.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmProduction.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmProductionLock.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmReferralNew.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmReferralPayment.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmReport.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmResetOrder.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmSalesCat.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmSetting.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipBillImport.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipBillReprint.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipment.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipmentNeedBox.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipPick.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipPrinterFedex.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmShipSelect.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmStaged.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmStarter.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmStatusBar.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmTaskList.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmTaxCodes.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmTaxImport.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmToDo.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmToDoList.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmUpdateISR.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmUpdateRep.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmUsers.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmVendorNet.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmWebExport.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmWizard.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmWizardSub.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.fmWoods.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.Resources.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.Shutdown.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.test.resources
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.vbproj.GenerateResource.Cache
+W:\WCI_SOURCE\Star\Head\WineCellarStar\obj\Debug\WineCellar.exe.licenses
+C:\Sites\Star 617\WineCellarStar\bin\WineCellar.exe.config
+C:\Sites\Star 617\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Sites\Star 617\WineCellarStar\obj\Debug\Interop.MSScriptControl.dll
+C:\Sites\Star 617\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Sites\Star 617\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Sites\Star 617\WineCellarStar\obj\Debug\Interop.SHDocVw.dll
+C:\Sites\Star 617\WineCellarStar\obj\Debug\AxInterop.SHDocVw.dll
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.vbproj.ResolveComReference.cache
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.exe
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.xml
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.pdb
+C:\Sites\Star 617\WineCellarStar\bin\WineCellar.exe
+C:\Sites\Star 617\WineCellarStar\bin\WineCellar.pdb
+C:\Sites\Star 617\WineCellarStar\bin\WineCellar.xml
+C:\Sites\Star 617\WineCellarStar\bin\Microsoft.mshtml.dll
+C:\Sites\Star 617\WineCellarStar\bin\NCalc.dll
+C:\Sites\Star 617\WineCellarStar\bin\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Sites\Star 617\WineCellarStar\bin\Interop.MSScriptControl.dll
+C:\Sites\Star 617\WineCellarStar\bin\Interop.Microsoft.Office.Core.dll
+C:\Sites\Star 617\WineCellarStar\bin\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Sites\Star 617\WineCellarStar\bin\Interop.SHDocVw.dll
+C:\Sites\Star 617\WineCellarStar\bin\AxInterop.SHDocVw.dll
+C:\Sites\Star 617\WineCellarStar\obj\Debug\ResolveAssemblyReference.cache
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmCCportal.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmCommission2.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmEstOrdUpdateSourceCode.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmAddSourceCode.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmCallCenterAdmin.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmAcctClosed.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmAcctOpen.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmAdjustBalance.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmBilling.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmCallCenterAdminDialog.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmCatalogs.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmCloseMonth.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmCodes.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmCommission.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmContactFind.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmContactList.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmContacts.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmContactsImport.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmCustomer.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmDateSelect.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmDesignerCheckoff.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmErrors.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmEstOrd2.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmEstOrdBOMImportLacq.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmEstOrdUpdateForecast.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmExcelImporter.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmFind.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmForecastStatus.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmImport.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmImportItems.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmItemPricing.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmKitCDRDownstairs.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmLogin.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmMain.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdApproveDiscount.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdCommOverride.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdCopyInstall.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdCopyItems.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdCustDisc.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdItmHist.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdPrintDuke.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdPrintRetailBase.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdSearch.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdShippingNotification.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdTaxOverride.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdUpdateInstaller.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmOrdWeb.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmPartRename.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmParts.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmPayment.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmPaymentTransfer.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmPopUp.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmPriceIncrease.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmPrintCustomerOrders.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmProduction.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmProductionLock.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmReferralNew.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmReferralPayment.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmReport.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmResetOrder.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmSalesCat.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmSetting.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmShipBillImport.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmShipBillReprint.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmShipment.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmShipmentNeedBox.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmShipPick.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmShipPrinterFedex.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmShipSelect.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmStaged.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmStarter.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmStatusBar.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmTaskList.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmTaxCodes.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmTaxImport.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmToDo.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmToDoList.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmUpdateISR.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmUpdateRep.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmUsers.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmVendorNet.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmWebExport.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmWizard.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmWizardSub.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.fmWoods.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.Resources.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.Shutdown.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.test.resources
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.vbproj.GenerateResource.Cache
+C:\Sites\Star 617\WineCellarStar\obj\Debug\WineCellar.exe.licenses
+C:\Sites\Star\WineCellarStar\bin\WineCellar.exe.config
+C:\Sites\Star\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Sites\Star\WineCellarStar\obj\Debug\Interop.MSScriptControl.dll
+C:\Sites\Star\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Sites\Star\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Sites\Star\WineCellarStar\obj\Debug\Interop.SHDocVw.dll
+C:\Sites\Star\WineCellarStar\obj\Debug\AxInterop.SHDocVw.dll
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.vbproj.ResolveComReference.cache
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.exe
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.xml
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.pdb
+C:\Sites\Star\WineCellarStar\bin\WineCellar.exe
+C:\Sites\Star\WineCellarStar\bin\WineCellar.pdb
+C:\Sites\Star\WineCellarStar\bin\WineCellar.xml
+C:\Sites\Star\WineCellarStar\bin\Microsoft.mshtml.dll
+C:\Sites\Star\WineCellarStar\bin\NCalc.dll
+C:\Sites\Star\WineCellarStar\bin\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Sites\Star\WineCellarStar\bin\Interop.MSScriptControl.dll
+C:\Sites\Star\WineCellarStar\bin\Interop.Microsoft.Office.Core.dll
+C:\Sites\Star\WineCellarStar\bin\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Sites\Star\WineCellarStar\bin\Interop.SHDocVw.dll
+C:\Sites\Star\WineCellarStar\bin\AxInterop.SHDocVw.dll
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmCCportal.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmCommission2.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmEstOrdUpdateSourceCode.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmAddSourceCode.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmCallCenterAdmin.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmAcctClosed.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmAcctOpen.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmAdjustBalance.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmBilling.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmCallCenterAdminDialog.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmCatalogs.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmCloseMonth.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmCodes.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmCommission.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmContactFind.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmContactList.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmContactsImport.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmCustomer.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmDateSelect.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmDesignerCheckoff.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmErrors.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmEstOrd2.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmEstOrdBOMImportLacq.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmEstOrdUpdateForecast.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmExcelImporter.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmFind.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmForecastStatus.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmImport.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmImportItems.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmItemPricing.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmKitCDRDownstairs.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmLogin.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmMain.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdApproveDiscount.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdCommOverride.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdCopyInstall.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdCopyItems.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdCustDisc.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdItmHist.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdPrintDuke.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdPrintRetailBase.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdSearch.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdShippingNotification.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdTaxOverride.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdUpdateInstaller.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdWeb.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmPartRename.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmParts.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmPayment.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmPaymentTransfer.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmPopUp.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmPriceIncrease.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmPrintCustomerOrders.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmProduction.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmProductionLock.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmReferralNew.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmReferralPayment.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmReport.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmResetOrder.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmSalesCat.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmSetting.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmShipBillImport.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmShipBillReprint.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmShipment.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmShipmentNeedBox.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmShipPick.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmShipPrinterFedex.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmShipSelect.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmStaged.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmStarter.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmStatusBar.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmTaskList.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmTaxCodes.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmTaxImport.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmToDo.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmToDoList.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmUpdateISR.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmUpdateRep.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmUsers.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmVendorNet.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmWebExport.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmWizard.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmWizardSub.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmWoods.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.Resources.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.Shutdown.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.test.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.vbproj.GenerateResource.Cache
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.exe.licenses
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.fmContacts.resources
+C:\Sites\Star\WineCellarStar\obj\Debug\WineCellar.vbprojResolveAssemblyReference.cache
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\WineCellar.exe.config
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\Interop.MSScriptControl.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Core.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\Interop.SHDocVw.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\AxInterop.SHDocVw.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.vbproj.ResolveComReference.cache
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\WineCellar.exe
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\WineCellar.pdb
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\WineCellar.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Excel.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Shared.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.Misc.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinCalcManager.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinDataSource.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinEditors.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinGrid.ExcelExport.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinGrid.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinInkProvider.Ink17.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinListBar.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinMaskedEdit.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinSchedule.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinTabControl.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinToolbars.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinTree.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Microsoft.mshtml.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\NCalc.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinStatusBar.v9.2.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Excel.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Shared.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.Misc.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinCalcManager.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinDataSource.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinEditors.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinGrid.ExcelExport.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinGrid.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinInkProvider.Ink17.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinListBar.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinMaskedEdit.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinSchedule.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinTabControl.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinToolbars.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinTree.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Infragistics2.Win.UltraWinStatusBar.v9.2.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Interop.Microsoft.Office.Interop.Excel.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Interop.MSScriptControl.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Interop.Microsoft.Office.Core.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Interop.Microsoft.Office.Interop.Outlook.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\Interop.SHDocVw.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\bin\AxInterop.SHDocVw.dll
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.vbprojResolveAssemblyReference.cache
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmCCportal.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmCommission2.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmEstOrdUpdateSourceCode.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmAddSourceCode.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmCallCenterAdmin.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmAcctClosed.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmAcctOpen.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmAdjustBalance.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmBilling.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmCallCenterAdminDialog.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmCatalogs.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmCloseMonth.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmCodes.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmCommission.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmContactFind.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmContactList.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmContacts.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmContactsImport.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmCustomer.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmDateSelect.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmDesignerCheckoff.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmErrors.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmEstOrd2.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmEstOrdBOMImportLacq.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmEstOrdUpdateForecast.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmExcelImporter.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmFind.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmForecastStatus.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmImport.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmImportItems.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmItemPricing.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmKitCDRDownstairs.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmLogin.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmMain.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdApproveDiscount.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdCommOverride.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdCopyInstall.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdCopyItems.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdCustDisc.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdItmHist.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdPrintDuke.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdPrintRetailBase.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdSearch.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdShippingNotification.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdTaxOverride.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdUpdateInstaller.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmOrdWeb.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmPartRename.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmParts.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmPayment.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmPaymentTransfer.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmPopUp.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmPriceIncrease.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmPrintCustomerOrders.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmProduction.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmProductionLock.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmReferralNew.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmReferralPayment.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmReport.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmResetOrder.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmSalesCat.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmSetting.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmShipBillImport.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmShipBillReprint.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmShipment.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmShipmentNeedBox.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmShipPick.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmShipPrinterFedex.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmShipSelect.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmStaged.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmStarter.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmStatusBar.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmTaskList.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmTaxCodes.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmTaxImport.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmToDo.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmToDoList.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmUpdateISR.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmUpdateRep.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmUsers.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmVendorNet.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmWebExport.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmWizard.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmWizardSub.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.fmWoods.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.Resources.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.Shutdown.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.test.resources
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.vbproj.GenerateResource.Cache
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.exe.licenses
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.exe
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.xml
+G:\Work\My Programmer\Projects\wci\trunk\Star\WineCellarStar\obj\Debug\WineCellar.pdb

@@ -1,0 +1,1155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A7B22E00-6372-4AE2-A6BE-C0AEA34C84F7}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>Star.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>WineCellar</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>WineCellar</RootNamespace>
+    <StartupObject>WineCellar.fmMain</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <SignAssembly>false</SignAssembly>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>WineCellar.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>WineCellar.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>WineCellar.xml</DocumentationFile>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>WineCellar.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Excel.v9.2">
+      <Name>Infragistics2.Excel.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Excel.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Shared.v9.2">
+      <Name>Infragistics2.Shared.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Shared.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.Misc.v9.2">
+      <Name>Infragistics2.Win.Misc.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.Misc.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinCalcManager.v9.2">
+      <Name>Infragistics2.Win.UltraWinCalcManager.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinCalcManager.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinDataSource.v9.2">
+      <Name>Infragistics2.Win.UltraWinDataSource.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinDataSource.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v9.2">
+      <Name>Infragistics2.Win.UltraWinEditors.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinEditors.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinExplorerBar.v9.2, Version=9.2.20092.1003, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics2.Win.UltraWinGrid.ExcelExport.v9.2, Version=9.2.20092.1003, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics2.Win.UltraWinGrid.v9.2">
+      <Name>Infragistics2.Win.UltraWinGrid.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinGrid.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinGrid.ExcelExport.v9.2">
+      <Name>Infragistics2.Win.UltraWinGrid.ExcelExport.v9.2</Name>
+      <HintPath>G:\Work\My Programmer\Documents\WCI\Infragistics\NetAdvantage 2009.2\Windows Forms\Bin\Infragistics2.Win.UltraWinGrid.ExcelExport.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinInkProvider.Ink17.v9.2">
+      <Name>Infragistics2.Win.UltraWinInkProvider.Ink17.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinInkProvider.Ink17.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinListBar.v9.2">
+      <Name>Infragistics2.Win.UltraWinListBar.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinListBar.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinMaskedEdit.v9.2">
+      <Name>Infragistics2.Win.UltraWinMaskedEdit.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinMaskedEdit.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinSchedule.v9.2">
+      <Name>Infragistics2.Win.UltraWinSchedule.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinSchedule.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinTabControl.v9.2">
+      <Name>Infragistics2.Win.UltraWinTabControl.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinTabControl.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinToolbars.v9.2">
+      <Name>Infragistics2.Win.UltraWinToolbars.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinToolbars.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinTree.v9.2">
+      <Name>Infragistics2.Win.UltraWinTree.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.UltraWinTree.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics2.Win.v9.2">
+      <Name>Infragistics2.Win.v9.2</Name>
+      <HintPath>C:\Program Files %28x86%29\Infragistics\NetAdvantage 2009.2\windows forms\bin\Infragistics2.Win.v9.2.dll</HintPath>
+      <AssemblyFolderKey>hklm\Infragistics.WinAssemblies.20092.CLR20</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Infragistics3.Excel.v9.2, Version=9.2.20092.1003, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Microsoft.mshtml">
+      <Name>Microsoft.mshtml</Name>
+      <HintPath>..\..\..\..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\Microsoft.mshtml.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility">
+      <Name>Microsoft.VisualBasic.Compatibility</Name>
+    </Reference>
+    <Reference Include="NCalc, Version=1.3.8.0, Culture=neutral, PublicKeyToken=973cde3f1cafed03, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\NCalc.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Messaging">
+      <Name>System.Messaging</Name>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap">
+      <Name>System.Runtime.Serialization.Formatters.Soap</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <COMReference Include="AxSHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+    </COMReference>
+    <COMReference Include="Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="MSScriptControl">
+      <Guid>{0E59F1D2-1FBE-11D0-8FF2-00A0D10038BC}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="Office">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="Outlook">
+      <Guid>{00062FFF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="cogs.gif" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Star.ico" />
+    <None Include="Web References\ShipServiceWebReference\CancelPendingShipmentReply1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ShipServiceWebReference\CreatePendingShipmentReply1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ShipServiceWebReference\ProcessShipmentReply1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ShipServiceWebReference\ProcessTagReply1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ShipServiceWebReference\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\ShipServiceWebReference\ShipmentReply1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ShipServiceWebReference\ShipServiceDefinitions.wsdl" />
+    <None Include="Web References\TrackingServiceWebReference\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\TrackingServiceWebReference\SignatureProofOfDeliveryFaxReply1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\TrackingServiceWebReference\SignatureProofOfDeliveryLetterReply1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\TrackingServiceWebReference\TrackNotificationReply1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\TrackingServiceWebReference\TrackReply1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\TrackingServiceWebReference\TrackServiceDefinitions.wsdl" />
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="fmCCportal.Designer.vb">
+      <DependentUpon>fmCCportal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmCCportal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmCommission2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmEstOrdUpdateSourceCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmAddSourceCode.Designer.vb">
+      <DependentUpon>fmAddSourceCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmAddSourceCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmCallCenterAdmin.Designer.vb">
+      <DependentUpon>fmCallCenterAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmCallCenterAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmAcctClosed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmAcctOpen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmAdjustBalance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmBilling.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmCallCenterAdminDialog.Designer.vb">
+      <DependentUpon>fmCallCenterAdminDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmCallCenterAdminDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmCatalogs.Designer.vb">
+      <DependentUpon>fmCatalogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmCatalogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmCloseMonth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmCodes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmCommission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmContactFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmContactList.Designer.vb">
+      <DependentUpon>fmContactList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmContactList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmContacts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmContactsImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmDateSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmDesignerCheckoff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmErrors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmEstOrd2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmEstOrdBOMImportLacq.Designer.vb">
+      <DependentUpon>fmEstOrdBOMImportLacq.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmEstOrdBOMImportLacq.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmEstOrdUpdateForecast.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmExcelImporter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmForecastStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmImportItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmItemPricing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmKitCDRDownstairs.Designer.vb">
+      <DependentUpon>fmKitCDRDownstairs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmKitCDRDownstairs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdApproveDiscount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdCommOverride.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdCopyInstall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdCopyItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdCustDisc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdItmHist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdPrintDuke.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdPrintRetailBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdShippingNotification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdTaxOverride.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdUpdateInstaller.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmOrdWeb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmPartRename.Designer.vb">
+      <DependentUpon>fmPartRename.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmPartRename.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmParts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmPaymentTransfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmPopUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmPriceIncrease.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmPrintCustomerOrders.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmProduction.Designer.vb">
+      <DependentUpon>fmProduction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmProduction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmProductionLock.Designer.vb">
+      <DependentUpon>fmProductionLock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmProductionLock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmReferralNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmReferralPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmResetOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmSalesCat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmShipBillImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmShipBillReprint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmShipment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmShipmentNeedBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmShipPick.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmShipPrinterFedex.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmShipSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmStaged.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmStarter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmStatusBar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmTaskList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmTaxCodes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmTaxImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmToDo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmToDoList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmUpdateISR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmUpdateRep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmVendorNet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmWebExport.Designer.vb">
+      <DependentUpon>fmWebExport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmWebExport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmWebExportTest.Designer.vb">
+      <DependentUpon>fmWebExportTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmWebExportTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmWizard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmWizardSub.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmWoods.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jcom.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Shutdown.Designer.vb">
+      <DependentUpon>Shutdown.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Shutdown.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test.Designer.vb">
+      <DependentUpon>test.vb</DependentUpon>
+    </Compile>
+    <Compile Include="test.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Web References\ShipServiceWebReference\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\TrackingServiceWebReference\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="fmCCportal.resx">
+      <DependentUpon>fmCCportal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmCommission2.resx">
+      <DependentUpon>fmCommission2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmEstOrdUpdateSourceCode.resx">
+      <DependentUpon>fmEstOrdUpdateSourceCode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmAddSourceCode.resx">
+      <DependentUpon>fmAddSourceCode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmCallCenterAdmin.resx">
+      <DependentUpon>fmCallCenterAdmin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmAcctClosed.resx">
+      <DependentUpon>fmAcctClosed.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmAcctOpen.resx">
+      <DependentUpon>fmAcctOpen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmAdjustBalance.resx">
+      <DependentUpon>fmAdjustBalance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmBilling.resx">
+      <DependentUpon>fmBilling.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmCallCenterAdminDialog.resx">
+      <DependentUpon>fmCallCenterAdminDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmCatalogs.resx">
+      <DependentUpon>fmCatalogs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmCloseMonth.resx">
+      <DependentUpon>fmCloseMonth.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmCodes.resx">
+      <DependentUpon>fmCodes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmCommission.resx">
+      <DependentUpon>fmCommission.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmContactFind.resx">
+      <DependentUpon>fmContactFind.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmContactList.resx">
+      <DependentUpon>fmContactList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmContacts.resx">
+      <DependentUpon>fmContacts.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmContactsImport.resx">
+      <DependentUpon>fmContactsImport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmCustomer.resx">
+      <DependentUpon>fmCustomer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmDateSelect.resx">
+      <DependentUpon>fmDateSelect.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmDesignerCheckoff.resx">
+      <DependentUpon>fmDesignerCheckoff.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmErrors.resx">
+      <DependentUpon>fmErrors.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmEstOrd2.resx">
+      <DependentUpon>fmEstOrd2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmEstOrdBOMImportLacq.resx">
+      <DependentUpon>fmEstOrdBOMImportLacq.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmEstOrdUpdateForecast.resx">
+      <DependentUpon>fmEstOrdUpdateForecast.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmExcelImporter.resx">
+      <DependentUpon>fmExcelImporter.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmFind.resx">
+      <DependentUpon>fmFind.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmForecastStatus.resx">
+      <DependentUpon>fmForecastStatus.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmImport.resx">
+      <DependentUpon>fmImport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmImportItems.resx">
+      <DependentUpon>fmImportItems.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmItemPricing.resx">
+      <DependentUpon>fmItemPricing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmKitCDRDownstairs.resx">
+      <DependentUpon>fmKitCDRDownstairs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmLogin.resx">
+      <DependentUpon>fmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmMain.resx">
+      <DependentUpon>fmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdApproveDiscount.resx">
+      <DependentUpon>fmOrdApproveDiscount.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdCommOverride.resx">
+      <DependentUpon>fmOrdCommOverride.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdCopyInstall.resx">
+      <DependentUpon>fmOrdCopyInstall.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdCopyItems.resx">
+      <DependentUpon>fmOrdCopyItems.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdCustDisc.resx">
+      <DependentUpon>fmOrdCustDisc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdItmHist.resx">
+      <DependentUpon>fmOrdItmHist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdPrintDuke.resx">
+      <DependentUpon>fmOrdPrintDuke.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdPrintRetailBase.resx">
+      <DependentUpon>fmOrdPrintRetailBase.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdSearch.resx">
+      <DependentUpon>fmOrdSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdShippingNotification.resx">
+      <DependentUpon>fmOrdShippingNotification.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdTaxOverride.resx">
+      <DependentUpon>fmOrdTaxOverride.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdUpdateInstaller.resx">
+      <DependentUpon>fmOrdUpdateInstaller.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmOrdWeb.resx">
+      <DependentUpon>fmOrdWeb.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmPartRename.resx">
+      <DependentUpon>fmPartRename.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmParts.resx">
+      <DependentUpon>fmParts.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmPayment.resx">
+      <DependentUpon>fmPayment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmPaymentTransfer.resx">
+      <DependentUpon>fmPaymentTransfer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmPopUp.resx">
+      <DependentUpon>fmPopUp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmPriceIncrease.resx">
+      <DependentUpon>fmPriceIncrease.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmPrintCustomerOrders.resx">
+      <DependentUpon>fmPrintCustomerOrders.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmProduction.resx">
+      <DependentUpon>fmProduction.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmProductionLock.resx">
+      <DependentUpon>fmProductionLock.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmReferralNew.resx">
+      <DependentUpon>fmReferralNew.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmReferralPayment.resx">
+      <DependentUpon>fmReferralPayment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmReport.resx">
+      <DependentUpon>fmReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmResetOrder.resx">
+      <DependentUpon>fmResetOrder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmSalesCat.resx">
+      <DependentUpon>fmSalesCat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmSetting.resx">
+      <DependentUpon>fmSetting.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmShipBillImport.resx">
+      <DependentUpon>fmShipBillImport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmShipBillReprint.resx">
+      <DependentUpon>fmShipBillReprint.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmShipment.resx">
+      <DependentUpon>fmShipment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmShipmentNeedBox.resx">
+      <DependentUpon>fmShipmentNeedBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmShipPick.resx">
+      <DependentUpon>fmShipPick.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmShipPrinterFedex.resx">
+      <DependentUpon>fmShipPrinterFedex.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmShipSelect.resx">
+      <DependentUpon>fmShipSelect.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmStaged.resx">
+      <DependentUpon>fmStaged.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmStarter.resx">
+      <DependentUpon>fmStarter.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmStatusBar.resx">
+      <DependentUpon>fmStatusBar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmTaskList.resx">
+      <DependentUpon>fmTaskList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmTaxCodes.resx">
+      <DependentUpon>fmTaxCodes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmTaxImport.resx">
+      <DependentUpon>fmTaxImport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmToDo.resx">
+      <DependentUpon>fmToDo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmToDoList.resx">
+      <DependentUpon>fmToDoList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmUpdateISR.resx">
+      <DependentUpon>fmUpdateISR.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmUpdateRep.resx">
+      <DependentUpon>fmUpdateRep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmUsers.resx">
+      <DependentUpon>fmUsers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmVendorNet.resx">
+      <DependentUpon>fmVendorNet.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmWebExport.resx">
+      <DependentUpon>fmWebExport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmWebExportTest.resx">
+      <DependentUpon>fmWebExportTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmWizard.resx">
+      <DependentUpon>fmWizard.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmWizardSub.resx">
+      <DependentUpon>fmWizardSub.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmWoods.resx">
+      <DependentUpon>fmWoods.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shutdown.resx">
+      <DependentUpon>Shutdown.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Content Include="STaR Database.lnk" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{5AD368F8-9AD3-4E4C-97D8-1F4F1C124158}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="\\10.0.0.245\jcom\FedEx\WSDL\ShipService_v8.wsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\ShipServiceWebReference\</RelPath>
+      <UpdateFromURL>\\10.0.0.245\jcom\FedEx\WSDL\ShipService_v8.wsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>WineCellar_WebReference_ShipService</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="\\10.0.0.245\Jcom\FedEx\WSDL\TrackService_v4.wsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\TrackingServiceWebReference\</RelPath>
+      <UpdateFromURL>\\10.0.0.245\Jcom\FedEx\WSDL\TrackService_v4.wsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>WineCellar_WebReference_TrackService</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

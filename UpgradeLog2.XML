@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WineCellar">
+</Property><Property Name="Solution File" Value="C:\Sites\Star\WineCellar.sln">
+</Property><Property Name="Date" Value="Tuesday, October 20, 2015">
+</Property><Property Name="Time" Value="11:35 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="4" Project="WineCellar" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\WineCellar.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WineCellar" Source="WineCellarStar\WineCellar.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WineCellar.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WineCellar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WineCellar" Source="WineCellarStar\WineCellar.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
