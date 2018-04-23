@@ -17089,7 +17089,7 @@ End Sub
                 Next
                 If HasStain = False Then
                     Dim row As DataRow
-                    Dim cnn3 As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+                    Dim cnn3 As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
                     Dim cmd As New SqlCommand("select itm_code from itm_file where itm_search_bottles='S' and itm_stain_serial=" + CStr(Stain), cnn3)
                     Dim onItem As String
 
@@ -17127,7 +17127,7 @@ End Sub
                 Next
                 If HasFinish = False Then
                     Dim row As DataRow
-                    Dim cnn3 As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+                    Dim cnn3 As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
                     Dim cmd As New SqlCommand("select itm_code from itm_file where itm_search_bottles='F' and itm_finish_serial=" + CStr(Finish), cnn3)
                     Dim onItem As String
 
@@ -17171,7 +17171,7 @@ End Sub
             If NeedsLacq Then
                 If HasLacq = False Then
                     Dim row As DataRow
-                    Dim cnn3 As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+                    Dim cnn3 As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
                     Dim cmd As New SqlCommand("select itm_code from itm_file where itm_search_bottles='L'", cnn3)
                     Dim onItem As String
 
@@ -17210,7 +17210,7 @@ End Sub
                 Dim dr As SqlDataReader
                 Dim cmd As New SqlCommand
                 Dim nm, qty, onBase, UntShip, WoodFactor, MatFactor, Price As Double
-                Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+                Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
                 Dim cmdx As New SqlCommand("", cnnx)
 
                 LoadPrice = True
@@ -17541,7 +17541,7 @@ End Sub
     Public Sub LoadPriceByRow(ByVal row As DataRow, Optional ByVal OverwriteMaterial As Boolean = False, Optional ByVal UpdateStainLacq As Boolean = True, Optional ByVal ForceRetail As Boolean = False)
         Try
             Dim dr As SqlDataReader
-            Dim cnn3 As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+            Dim cnn3 As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim cmd As New SqlCommand
             Dim cmd2 As New SqlCommand("", cnn2)
             Dim nm, qty As Double
@@ -18212,7 +18212,7 @@ End Sub
                 End If
             End If
 
-            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim x, y, z As Integer
             Dim t, MD, Con, Ret, Valx, tShip, tTax As Double
             Dim dr As DataRow
@@ -21530,7 +21530,7 @@ End Sub
     Public Sub UpdateCountry()
         Try
             If tCountry.Text = "" Then Exit Sub
-            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim cmd As New SqlCommand("select * from country_file where country_code='" + tCountry.Text + "'", cnnx)
             Dim dr As SqlDataReader
             cnnx.Open()
@@ -21651,7 +21651,7 @@ End Sub
     Private Sub UpdateGenShipCountry()
         Try
             If gsCountry.Text = "" Then Exit Sub
-            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim cmd As New SqlCommand("select * from country_file where country_code='" + gsCountry.Text + "'", cnnx)
             Dim dr As SqlDataReader
             cnnx.Open()
@@ -21743,7 +21743,7 @@ End Sub
     Private Sub UpdateAltShipCountry()
         Try
             If tAltShipCountry.Text = "" Then Exit Sub
-            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim cmd As New SqlCommand("select * from country_file where country_code='" + tAltShipCountry.Text + "'", cnnx)
             Dim dr As SqlDataReader
             cnnx.Open()
@@ -22036,7 +22036,7 @@ End Sub
         If tOrd.Text <> "" Then
             Try
                 If onShipExtra <> tShipExtra.Value Then
-                    Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+                    Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
                     Dim cmd As New SqlCommand("insert into ord_add_ship (ord_add_ship_ord_serial,ord_add_ship_ord_rev,ord_add_ship_ord_type,ord_add_ship_user,ord_add_ship_date,ord_add_ship_was,ord_add_ship_now) values (" + tOrd.Text + "," + Mid(Tab1.ActiveTab.Key, 2) + ",'" + Mid(Tab1.ActiveTab.Key, 1, 1) + "','" + User + "','" + CStr(Now) + "'," + CStr(onShipExtra) + "," + CStr(tShipExtra.Value) + ")", cnnx)
                     cnnx.Open()
                     cmd.ExecuteNonQuery()
@@ -22768,7 +22768,7 @@ End Sub
     End Sub
     Public Sub UpdateSalesRep()
         If dsGen.Tables.Count = 0 Then Exit Sub
-        Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+        Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
         Dim cmd As New SqlCommand("", cnnx)
         Dim dr As DataRow
         Dim da As New SqlDataAdapter(cmd)
@@ -23465,7 +23465,7 @@ End Sub
     End Sub
     Private Sub UpdateModeLog(ByVal Mode As String)
         If tOrd.Text = "" Then Exit Sub
-        Dim cnnTemp As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+        Dim cnnTemp As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
         Dim cmd As New SqlCommand("insert into ord_edt_log (ord_edt_ord_serial,ord_edt_user,ord_edt_date,ord_edt_mode) values (" + tOrd.Text + ",'" + User + "','" + CStr(Now) + "','" + Mode + "')", cnnTemp)
         Try
             cnnTemp.Open()
@@ -24656,7 +24656,7 @@ End Sub
         Try
             If Grid1.Rows.Count = 0 Then Exit Sub
             Dim x As Integer
-            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim cmd As New SqlCommand("", cnnx)
             Dim rw As Infragistics.Win.UltraWinGrid.UltraGridRow
             Dim errMessage As String = ""
@@ -25517,7 +25517,7 @@ End Sub
         Try
 
             If Not row Is Nothing Then
-                Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+                Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
                 Dim cmd As New SqlCommand("", cnnx)
                 Dim cnnOpened As Boolean = False
 

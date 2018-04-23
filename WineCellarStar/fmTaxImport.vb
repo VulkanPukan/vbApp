@@ -228,7 +228,7 @@ Public Class fmTaxImport
         Try
             Dim statecmd As New SqlClient.SqlCommand("select tax_state from tax_state")
             Dim cnn9 As New SqlClient.SqlConnection
-            cnn9.ConnectionString = cnn.ConnectionString + ";password=39201"
+            cnn9.ConnectionString = cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'"
             Dim ds As New DataSet
             Dim stateda As New SqlDataAdapter
 

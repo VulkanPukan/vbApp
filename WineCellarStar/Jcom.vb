@@ -104,7 +104,7 @@ Module Jcom
             cnn3 = New SqlClient.SqlConnection(connStr)
 
             cnnAutoCad.ConnectionString = "server=dev1.myprogrammer.com,10591;user id=igor.lazarev; password=JGMn4wbhnHL9s3be; database=wci-dev2"
-            '"server=" + Server + "; user id=sa; password=39201; database=AutoCad_Automation; pooling=false"
+            '"server=" + Server + "; user id=sa; password='JGMn4wbhnHL9s3be'; database=AutoCad_Automation; pooling=false"
         Catch
             MsgBox(Err.Description)
             End
@@ -2777,7 +2777,7 @@ ErrOut:
         Dim cnn0 As New SqlClient.SqlConnection
         Dim cmd As New SqlClient.SqlCommand("select sec_access from usr_file left outer join sec_file on usr_file.usr_group=sec_usr_serial where usr_serial=" + CStr(UserSerial) + " and sec_screen='" + Scrn + "'", cnn0)
         Dim dr As SqlClient.SqlDataReader
-        cnn0.ConnectionString = cnn.ConnectionString + ";password=39201"
+        cnn0.ConnectionString = cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'"
         cnn0.Open()
 
         dr = cmd.ExecuteReader
@@ -2801,7 +2801,7 @@ ErrOut:
     Public Function CheckMenuSecurity(ByVal mnu As String) As Integer
         'Dim cnn0 As New SqlClient.SqlConnection
         Dim cmd As New SqlClient.SqlCommand("select usr_mnu_value from usr_mnu where usr_mnu_usr_serial=" + CStr(UserGroupSerial) + " and usr_mnu_itm='" + mnu + "'", cnn)
-        'cnn0.ConnectionString = cnn.ConnectionString + ";password=39201"
+        'cnn0.ConnectionString = cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'"
         'cnn0.Open()
 
         CheckMenuSecurity = nz(cmd.ExecuteScalar, 0)
@@ -2916,7 +2916,7 @@ ErrOut:
     'Public Function CheckTaxRate(ByVal State As String, ByVal County As String)
     '    Dim cmd As New SqlClient.SqlCommand
     '    Dim cnn9 As New SqlClient.SqlConnection
-    '    cnn9.ConnectionString = cnn.ConnectionString + ";password=39201"
+    '    cnn9.ConnectionString = cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'"
 
     '    cmd.Connection = cnn9
     '    If County = "" Then
@@ -3875,7 +3875,7 @@ ErrOut:
     End Function
 
     Public Function AddToDo(ByVal Type As String, ByVal Who As String, ByVal Note As String, Optional ByVal Ord As Long = -1, Optional ByVal Rev As Integer = -1, Optional ByVal OrdType As String = "", Optional ByVal WhoNext As String = "", Optional ByVal Button As String = "", Optional ByVal ButtonType As String = "", Optional ByVal MiscText As String = "", Optional ByVal MiscNum As Double = 0, Optional ByVal PopUp As Boolean = False) As Long
-        Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password=39201")
+        Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
         Dim cmd As New SqlCommand("", cnnx)
         Dim sqlx As String
         Dim onToDo As Long
@@ -4021,7 +4021,7 @@ ErrOut:
     End Function
     Public Sub CheckReferral(ByVal Ord As Long, ByVal Rev As Integer, ByVal Type As String, Optional ByVal PayType As String = "", Optional ByVal PaySerial As Long = 0)
         Try
-            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password=39201")
+            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim cmd As New SqlCommand("select ord_ref_perc from ord_file where ord_serial=" + CStr(Ord), cnnx)
             Dim dr As DataRow
             Dim onPerc As Double
@@ -4106,7 +4106,7 @@ ErrOut:
         cnn2.Close()
     End Sub
     Public Sub setMarginFactor(ByVal Ord As Long, ByVal Rev As Integer, ByVal Type As String)
-        Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password=39201")
+        Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
         Try
             Dim cmd As New SqlCommand("select ord_gen.*,ord_file.ord_acct_open,ord_file.ord_ref_perc from ord_gen,ord_file where ord_gen_ord_serial=ord_serial and ord_gen_ord_serial=" + CStr(Ord) + " and ord_gen_rev=" + CStr(Rev) + " and ord_gen_type='" + Type + "'", cnnx)
             Dim da As New SqlDataAdapter(cmd)
@@ -4191,7 +4191,7 @@ ErrOut:
         Next
     End Function
     Private Function RefPaid(ByVal Ord As Long, ByVal Rev As Integer, ByVal IncludeSubmitted As Boolean) As Double
-        Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password=39201")
+        Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
         Dim cmd As New SqlCommand("select sum(ref_ledger_amt) as amt from ref_ledger where ref_ledger_ord_serial=" + CStr(Ord) + " and ref_ledger_ord_rev=" + CStr(Rev) + " and ref_ledger_ord_type='O' and ((ref_ledger_ref='APPROVED'))", cnnx)
         cnnx.Open()
         RefPaid = nz(cmd.ExecuteScalar, 0)

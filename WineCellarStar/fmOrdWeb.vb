@@ -736,7 +736,7 @@ Public Class fmOrdWeb
     End Sub
     Private Sub GetNewSiteOrders()
         Try
-            Dim starconn As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+            Dim starconn As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim webconn As New SqlConnection
             webconn.ConnectionString = "server=wci-live.c6u36j5sk3af.us-east-1.rds.amazonaws.com;Initial Catalog=WCI;User ID=wci_sa;password=jcom39201"
             Dim webcmd As New SqlCommand("select orderid from orderhead where ordernumber is null and statusname ='ordered'", webconn)
@@ -771,7 +771,7 @@ Public Class fmOrdWeb
     Private Sub DataGridView1_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
         Try
             Dim StarID As Integer, webid As Integer
-            Dim Starconn As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+            Dim Starconn As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim webconn As New SqlConnection("server=wci-live.c6u36j5sk3af.us-east-1.rds.amazonaws.com;Initial Catalog=WCI;User ID=wci_sa;password=jcom39201")
             Dim webcmd As New SqlCommand("exportorder", webconn)
             webcmd.CommandType = CommandType.StoredProcedure

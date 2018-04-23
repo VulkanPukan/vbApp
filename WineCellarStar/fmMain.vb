@@ -3009,7 +3009,7 @@ Public Class fmMain
         Try
             Dim cmd As New SqlClient.SqlCommand("update usr_file set usr_active_time='" + Date.Now + "' where usr_serial=" + CStr(UserSerial))
             Dim cnn9 As New SqlClient.SqlConnection
-            cnn9.ConnectionString = cnn.ConnectionString + ";password=39201"
+            cnn9.ConnectionString = cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'"
 
             cmd.Connection = cnn9
             cnn9.Open()
@@ -5448,7 +5448,7 @@ Public Class fmMain
         ' If MsgBox("Continue", MsgBoxStyle.YesNo) = MsgBoxResult.No Then Exit Sub
         ' Dim dts As New DataSet
         ' Dim dtt As New DataTable
-        ' Dim cnntest As New SqlConnection("server=10.0.0.245; user id=sa; password=39201; database=winecellar; pooling=false")
+        ' Dim cnntest As New SqlConnection("server=10.0.0.245; user id=sa; password='JGMn4wbhnHL9s3be'; database=winecellar; pooling=false")
         ' Dim cmdtest As New SqlCommand("", cnntest)
         ' Dim datest As New SqlDataAdapter(cmdtest)
         ' Dim str As String = ""

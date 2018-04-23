@@ -1553,7 +1553,7 @@ Public Class fmImport
         Dim cnn2 As New SqlConnection
         Dim LastAuto, x, y As Long
         'Try
-        cnn2.ConnectionString = cnn.ConnectionString + ";password=39201"
+        cnn2.ConnectionString = cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'"
         cmd2.Connection = cnn2
         cmd.Connection = cnn
 
@@ -1628,7 +1628,7 @@ Public Class fmImport
         Dim cnn2 As New SqlConnection
         Dim LastAuto, x, y As Long
         'Try
-        cnn2.ConnectionString = cnn.ConnectionString + ";password=39201"
+        cnn2.ConnectionString = cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'"
         cmd2.Connection = cnn2
         cmd.Connection = cnn
 
@@ -1874,7 +1874,7 @@ Public Class fmImport
         Dim cnn2 As New SqlConnection
         Dim LastAuto, x, y As Long
         'Try
-        cnn2.ConnectionString = cnn.ConnectionString + ";password=39201"
+        cnn2.ConnectionString = cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'"
         cmd2.Connection = cnn2
         cmd.Connection = cnn
 
@@ -2497,7 +2497,7 @@ Public Class fmImport
         Try
             cnn.Open()
             cnn2.Open()
-            'cnn3.ConnectionString = cnn2.ConnectionString + ";password=39201"
+            'cnn3.ConnectionString = cnn2.ConnectionString + ";password='JGMn4wbhnHL9s3be'"
             'cnn3.Open()
             'cmd3.Connection = cnn3
 

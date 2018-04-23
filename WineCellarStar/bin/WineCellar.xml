@@ -6,20 +6,7 @@ WineCellar
 </name>
 </assembly>
 <members>
-<member name="P:WineCellar.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:WineCellar.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:WineCellar.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="M:WineCellar.TrackingServiceWebReference.TrackService.#ctor">
+<member name="M:WineCellar.TrackingServiceWebReference.TrackService.#ctor">
 	<remarks/>
 </member><member name="E:WineCellar.TrackingServiceWebReference.TrackService.trackCompleted">
 	<remarks/>
@@ -823,6 +810,19 @@ WineCellar
 	<remarks/>
 </member><member name="T:WineCellar.TrackingServiceWebReference.retrieveSignatureProofOfDeliveryLetterCompletedEventArgs">
 	<remarks/>
+</member><member name="P:WineCellar.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WineCellar.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WineCellar.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member><member name="M:WineCellar.ShipServiceWebReference.ShipService.#ctor">
 	<remarks/>
 </member><member name="E:WineCellar.ShipServiceWebReference.ShipService.processShipmentCompleted">

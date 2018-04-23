@@ -879,7 +879,7 @@ Public Class fmPayment
         End Try
     End Sub
     'Private Sub CheckRefTransfer(ByVal Ord As Long, ByVal Rev As Integer, ByVal Type As String, ByVal PaySerial As Long, ByVal Amt As Double)
-    '    Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password=39201")
+    '    Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
     '    Dim cmd As New SqlCommand("select ref_ledger_serial from ref_ledger where ref_ledger_ref='TRANSFER' and ref_ledger_refnum=" + CStr(PaySerial) + " and ref_ledger_ord_serial=" + CStr(Ord) + " and ref_ledger_ord_rev=" + CStr(Rev) + " and ref_ledger_ord_type='" + Type + "'", cnnx)
     '    Dim onRef As Long
     '    Dim onPerc As Double

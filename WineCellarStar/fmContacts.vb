@@ -3114,7 +3114,7 @@ Public Class fmContacts
     Public Sub UpdateCountry()
         Try
             If tContCountry.Text = "" Then Exit Sub
-            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='39201'")
+            Dim cnnx As New SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim cmd As New SqlCommand("select * from country_file where country_code='" + tContCountry.Text + "'", cnnx)
             Dim dr As SqlDataReader
             cnnx.Open()

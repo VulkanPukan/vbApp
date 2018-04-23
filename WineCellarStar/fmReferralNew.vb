@@ -339,7 +339,7 @@ Public Class fmReferralNew
         If CheckField(tRefZip, "Referral Zip", "C") = False Then Exit Sub
         If CheckField(tRefPerc, "Referral Percentage", "C") = False Then Exit Sub
         Try
-            Dim cnnx As New SqlClient.SqlConnection(cnn.ConnectionString + ";password=39201")
+            Dim cnnx As New SqlClient.SqlConnection(cnn.ConnectionString + ";password='JGMn4wbhnHL9s3be'")
             Dim cmd As New SqlClient.SqlCommand("", cnnx)
             cmd.CommandText = "insert into ref_file (ref_name,ref_company,ref_addr1,ref_addr2,ref_addr3,ref_city,ref_state,ref_zip,ref_perc,ref_pay_on_recpt) values ("
             cmd.CommandText += "'" + tRefName.Text + "',"
